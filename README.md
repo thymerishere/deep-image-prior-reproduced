@@ -3,4 +3,4 @@ This project contains an experiment for the reproducibility project report in de
 
 In order to run this expirement, which is contained in a Jupyter Notebook, first download the [original Deep Image Prior project from github](https://dmitryulyanov.github.io/deep_image_prior) and put the folder in the root of your Google Drive. Then download the `custom` folder, which contains a custom dataset used in our experiment, and put it inside `deep-image-prior-master/data`. Then the Jupyter Notebook can be opened in Google colab and further steps will be explained within.
 
-The results of the original paper were successfully reproduced and analysis showed that the results are very sensitive to hyperparameter changes and good results depends on a good choice of hyperparameters. Furthermore, skip connections are shown to allow for better results.
+The results of the original paper were successfully reproduced and analysis showed that the results are very sensitive to hyperparameter changes and good results depends on a good choice of hyperparameters. Furthermore, skip connections have shown to allow for better results.
